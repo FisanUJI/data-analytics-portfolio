@@ -1,1 +1,1 @@
-# DataAnalystProjects.github.io
+# DataAnalyticsProjects.github.io
