@@ -1,5 +1,5 @@
-### My data-analytics-portfolio
-##### Welcome to my Data Analytics Portfolio.
+# My data-analytics-portfolio
+### Welcome to my Data Analytics Portfolio.
 
 My name is Oluwatobi Adefisan, I'm a geospatial and earth observation specialist.
 I have continued to gain expertise in this field since the year 2018. 
