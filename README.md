@@ -4,7 +4,7 @@
 My name is Oluwatobi Adefisan, I'm a geospatial and earth observation specialist.
 I have continued to gain expertise in this field since the year 2018. 
 My knowledge and experience cuts across every aspect of geospatial data analytics.
-Visit my portfolio (github page) via this link: https://fisanuji.github.io/data-analytics-portfolio/
+Visit my portfolio (github page) via this [link](https://fisanuji.github.io/data-analytics-portfolio/)
 
 Please note that the Data Analytics Portfolio is gradually undergoing changes and development. 
 
