@@ -6,7 +6,7 @@
 ##### Visit my portfolio (github page) via this link: https://fisanuji.github.io/data-analytics-portfolio/
 
 
-<!-- Please note that the Data Analytics Portfolio is gradually undergoing changes and development. 
+Please note that the Data Analytics Portfolio is gradually undergoing changes and development. 
 
 Kindly checkout the post tab/menu for the most recent updates and changes. 
 Your comments and recommendations will be essential and valuable to this work. 
@@ -16,7 +16,5 @@ Thank you very much.
 
 Best,
 Oluwatobi
-
--->
 
 
