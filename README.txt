@@ -1,14 +1,14 @@
 Credits:
-	Design:
 		HTML5 UP (html5up.net)
 
-	Demo Images:
+Demo Images:
 		Unsplash (unsplash.com)
 
-	Icons:
+Icons:
 		Font Awesome (fontawesome.io)
 
-	Other:
+Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
