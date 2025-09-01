@@ -8,7 +8,7 @@ Visit my portfolio (github page) via this [link](https://fisanuji.github.io/data
 
 Please note that the Data Analytics Portfolio is gradually undergoing changes and development. 
 
-Kindly checkout the [post](https://github.com/FisanUJI/data-analytics-portfolio/the-castellon-tourist-service-fascilities-program.html) tab/menu for the most recent updates and changes. 
+Kindly checkout the [post](https://fisanuji.github.io/data-analytics-portfolio/the-castellon-tourist-service-fascilities-program.html) tab/menu for the most recent updates and changes. 
 Your comments and recommendations will be essential and valuable to this work. 
 Hence, remember to leave your feedbacks, comments, inquiries, etc. as a message in the footer section of the github page. 
 
