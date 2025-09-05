@@ -1,7 +1,6 @@
 /*
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Geospatial Data Analytics Podcast by Oluwatobi Adefisan
+	fizgeospatial.com | @fisanUJI
 */
 
 (function($) {
@@ -254,5 +253,29 @@
 			});
 
 		}
+	
+	// Enhanced pagination: Next button
+	$('.next').on('click', function(e) {
+		e.preventDefault();
+
+		let $current = $('.page.active');
+		let $next = $current.nextAll('.page').first();
+
+		if ($next.length) {
+			$current.removeClass('active');
+			$next.addClass('active');
+
+			let pageNum = $next.text();
+
+			// Optional: Scroll to top of content area
+			$('#main').animate({ scrollTop: 0 }, 300);
+
+			// Optional: Load content dynamically
+			console.log("Loading content for page:", pageNum);
+		} else {
+			console.log("You're already on the last page.");
+		}
+	});
+
 
 })(jQuery);
